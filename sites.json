@@ -105,6 +105,13 @@
   "group": "deep"
  },
  {
+  "host": "tickets.cold.fyi",
+  "url": "https://tickets.cold.fyi",
+  "name": "The Ticket",
+  "blurb": "How a concert ticket gets from artist to fan, and who takes a cut on the way.",
+  "group": "deep"
+ },
+ {
   "host": "ghostnaps.com",
   "url": "https://ghostnaps.com",
   "name": "Ghostnaps",
