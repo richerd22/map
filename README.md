@@ -8,9 +8,11 @@ Every public site in the cold.fyi / Third Polar Arch universe on one page. GitHu
 
 ## How sites get added
 
-1. A new hostname appears in the Notion Domain Registry (CommonCTRL's monthly "sites scan" and Stem's checks feed it).
-2. Daily Digest prep compares the Registry's live, canonical rows with `data/sites.json` and stages "Map: add X?" with a drafted name, blurb and group.
-3. Richard replies `Map: approve`, `Map: skip X`, or edits a blurb (`Map: X = new blurb`).
-4. Next prep run adds approved rows to `data/sites.json`, runs `python3 build.py`, commits and pushes.
+1. A new hostname gets a row in the Notion Domain Registry (whoever launches a site adds it; CommonCTRL's monthly sites scan is the safety net).
+2. Daily Digest prep proposes live canonical rows whose Registry "Map" column is blank: "Map: add X?" with a drafted name, blurb and group.
+3. Richard replies `Map: approve`, `Map: skip X` (sets Map = Archived, never asked again), or edits a blurb (`Map: X = new blurb`).
+4. Next prep run adds approved rows to `data/sites.json`, runs `python3 build.py`, commits, pushes, and sets Map = On map.
+
+Groups: boston, deep, ghostnaps, shows, tools, play, home (order in the file = order on the page).
 
 Removal: delete the row, rebuild, push. Full guide: Notion, "Map - map.cold.fyi (READ FIRST)".
