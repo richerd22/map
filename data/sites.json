@@ -11,9 +11,14 @@
    "note": "Long, sourced explainers on how things actually work."
   },
   {
-   "id": "night",
-   "name": "Music and nightlife",
-   "note": "Ghostnaps, On The Floor, Darkroom, and tools for people who work shows."
+   "id": "ghostnaps",
+   "name": "Ghostnaps",
+   "note": "Richard's DJ and producer project. Releases and merch."
+  },
+  {
+   "id": "shows",
+   "name": "For people who work shows",
+   "note": "Ads, visuals, lighting and deal math for DJs, promoters and venues."
   },
   {
    "id": "tools",
@@ -54,30 +59,9 @@
    "added": "2026-10-19"
   },
   {
-   "host": "alarmclub.boston",
-   "name": "Alarm Club",
-   "blurb": "A scavenger hunt across Boston's 1852 fire alarm box network.",
-   "group": "boston",
-   "added": "2026-10-19"
-  },
-  {
-   "host": "giftshop.alarmclub.boston",
-   "name": "Alarm Club Gift Shop",
-   "blurb": "Postcards and goods from Alarm Club.",
-   "group": "boston",
-   "added": "2026-10-19"
-  },
-  {
-   "host": "bricks.cold.fyi",
-   "name": "Off the Bricks",
-   "blurb": "Sourced walking hunts through the parts of Boston the red brick line skips.",
-   "group": "boston",
-   "added": "2026-10-19"
-  },
-  {
-   "host": "overhead.cold.fyi",
-   "name": "Overhead",
-   "blurb": "What's in the sky around you, right now.",
+   "host": "otf.cold.fyi",
+   "name": "On The Floor Boston",
+   "blurb": "Boston nightlife, so you know where to show up.",
    "group": "boston",
    "added": "2026-10-19"
   },
@@ -89,9 +73,23 @@
    "added": "2026-10-19"
   },
   {
-   "host": "fourthplace.thirdpolararch.com",
-   "name": "Fourth Place",
-   "blurb": "Things to do tonight that aren't bars.",
+   "host": "alarmclub.boston",
+   "name": "Alarm Club",
+   "blurb": "A scavenger hunt across Boston's 1852 fire alarm box network.",
+   "group": "boston",
+   "added": "2026-10-19"
+  },
+  {
+   "host": "giftshop.alarmclub.boston",
+   "name": "Alarm Club Gift Shop",
+   "blurb": "Alarm Club postcards.",
+   "group": "boston",
+   "added": "2026-10-19"
+  },
+  {
+   "host": "bricks.cold.fyi",
+   "name": "Off the Bricks",
+   "blurb": "Sourced walking hunts through the parts of Boston the red brick line skips.",
    "group": "boston",
    "added": "2026-10-19"
   },
@@ -99,6 +97,13 @@
    "host": "post.cold.fyi",
    "name": "Post",
    "blurb": "Mail sent to a box in Boston, cataloged.",
+   "group": "boston",
+   "added": "2026-10-19"
+  },
+  {
+   "host": "617notary.cold.fyi",
+   "name": "Notary.Boston",
+   "blurb": "Mobile notary in Boston, 24/7. Comes to you.",
    "group": "boston",
    "added": "2026-10-19"
   },
@@ -141,112 +146,77 @@
    "host": "ghostnaps.com",
    "name": "Ghostnaps",
    "blurb": "DJ and producer. Official site.",
-   "group": "night",
+   "group": "ghostnaps",
    "added": "2026-10-19"
   },
   {
    "host": "tmwy.ghostnaps.com",
    "name": "TAKE ME WITH YOU!!",
    "blurb": "A visual album by Ghostnaps.",
-   "group": "night",
+   "group": "ghostnaps",
    "added": "2026-10-19"
   },
   {
    "host": "start.ghostnaps.com",
    "name": "LOST FROM THE START",
    "blurb": "Ghostnaps release page.",
-   "group": "night",
+   "group": "ghostnaps",
    "added": "2026-10-19"
   },
   {
    "host": "enuff.ghostnaps.com",
    "name": "CAN'T GET ENUFF",
    "blurb": "Ghostnaps release page.",
-   "group": "night",
+   "group": "ghostnaps",
    "added": "2026-10-19"
   },
   {
    "host": "shop.ghostnaps.com",
    "name": "Shop Ghostnaps",
    "blurb": "Merch.",
-   "group": "night",
-   "added": "2026-10-19"
-  },
-  {
-   "host": "10.cold.fyi",
-   "name": "Weekly Ten",
-   "blurb": "Cover generator for ghostnaps' weekly ten.",
-   "group": "night",
-   "added": "2026-10-19"
-  },
-  {
-   "host": "otf.cold.fyi",
-   "name": "On The Floor Boston",
-   "blurb": "So you know where to show up.",
-   "group": "night",
+   "group": "ghostnaps",
    "added": "2026-10-19"
   },
   {
    "host": "darkroom.ad",
    "name": "DARKROOM",
    "blurb": "Meta ads for music and nightlife.",
-   "group": "night",
+   "group": "shows",
    "added": "2026-10-19"
   },
   {
    "host": "school.darkroom.ad",
    "name": "Darkroom Ad School",
    "blurb": "Free Meta ads training for music and nightlife.",
-   "group": "night",
+   "group": "shows",
    "added": "2026-10-19"
   },
   {
-   "host": "permit.cold.fyi",
-   "name": "Bureau of Effects Regulation",
-   "blurb": "Apply for your RMX-1000 Operator's Permit.",
-   "group": "night",
+   "host": "frame.thirdpolararch.com",
+   "name": "FRAME",
+   "blurb": "Visuals for DJs and venues: clip packs, live visualizers, VJ tools.",
+   "group": "shows",
    "added": "2026-10-19"
   },
   {
    "host": "gel.cold.fyi",
    "name": "GEL",
    "blurb": "Lighting gel color theory: what to mix when.",
-   "group": "night",
-   "added": "2026-10-19"
-  },
-  {
-   "host": "frame.thirdpolararch.com",
-   "name": "FRAME",
-   "blurb": "Look as good as you sound.",
-   "group": "night",
-   "added": "2026-10-19"
-  },
-  {
-   "host": "passlab.thirdpolararch.com",
-   "name": "PassLab",
-   "blurb": "Your tickets. Your fields.",
-   "group": "night",
+   "group": "shows",
    "added": "2026-10-19"
   },
   {
    "host": "copro.cold.fyi",
    "name": "Co-Pro Calculator",
    "blurb": "Co-promotion deal calculator.",
-   "group": "night",
+   "group": "shows",
    "added": "2026-10-19"
   },
   {
-   "host": "settime.cold.fyi",
-   "name": "SET TIME",
-   "blurb": "Music industry survival game. A browser tamagotchi.",
-   "group": "night",
-   "added": "2026-10-19"
-  },
-  {
-   "host": "setlist.thirdpolararch.com",
-   "name": "SETLIST",
-   "blurb": "The DJ career simulator.",
-   "group": "night",
+   "host": "permit.cold.fyi",
+   "name": "Bureau of Effects Regulation",
+   "blurb": "Apply for your RMX-1000 Operator's Permit.",
+   "group": "shows",
    "added": "2026-10-19"
   },
   {
@@ -257,37 +227,9 @@
    "added": "2026-10-19"
   },
   {
-   "host": "collect.thirdpolararch.com",
-   "name": "Collect",
-   "blurb": "Lead capture forms that send data straight to Google Sheets.",
-   "group": "tools",
-   "added": "2026-10-19"
-  },
-  {
-   "host": "checklistvault.thirdpolararch.com",
-   "name": "ChecklistVault",
-   "blurb": "1,400+ free checklists for business and life.",
-   "group": "tools",
-   "added": "2026-10-19"
-  },
-  {
-   "host": "mktg.thirdpolararch.com",
-   "name": "SIMPLEMKTGTLBX",
-   "blurb": "150+ free marketing, design and developer tools.",
-   "group": "tools",
-   "added": "2026-10-19"
-  },
-  {
-   "host": "ooo.thirdpolararch.com",
-   "name": "OOO Generator",
-   "blurb": "Out of office messages, written for you.",
-   "group": "tools",
-   "added": "2026-10-19"
-  },
-  {
-   "host": "excusenote.thirdpolararch.com",
-   "name": "ExcuseNote",
-   "blurb": "Free excuse note generator.",
+   "host": "recopro.thirdpolararch.com",
+   "name": "ResizeConvertPRO",
+   "blurb": "Resize and convert files.",
    "group": "tools",
    "added": "2026-10-19"
   },
@@ -299,9 +241,30 @@
    "added": "2026-10-19"
   },
   {
-   "host": "recopro.online",
-   "name": "ResizeConvertPRO",
-   "blurb": "Resize and convert files.",
+   "host": "collect.thirdpolararch.com",
+   "name": "Collect",
+   "blurb": "Simple lead capture forms.",
+   "group": "tools",
+   "added": "2026-10-19"
+  },
+  {
+   "host": "ooo.thirdpolararch.com",
+   "name": "OOO Generator",
+   "blurb": "Out of office messages, written for you.",
+   "group": "tools",
+   "added": "2026-10-19"
+  },
+  {
+   "host": "mktg.thirdpolararch.com",
+   "name": "SIMPLEMKTGTLBX",
+   "blurb": "150+ free marketing, design and developer tools.",
+   "group": "tools",
+   "added": "2026-10-19"
+  },
+  {
+   "host": "checklistvault.thirdpolararch.com",
+   "name": "ChecklistVault",
+   "blurb": "1,400+ free checklists for business and life.",
    "group": "tools",
    "added": "2026-10-19"
   },
@@ -313,20 +276,6 @@
    "added": "2026-10-19"
   },
   {
-   "host": "stillpoint.thirdpolararch.com",
-   "name": "Stillpoint",
-   "blurb": "Free breathing and calm app.",
-   "group": "tools",
-   "added": "2026-10-19"
-  },
-  {
-   "host": "loosedates.cold.fyi",
-   "name": "loosedates",
-   "blurb": "Flexible-date flight deal terminal.",
-   "group": "tools",
-   "added": "2026-10-19"
-  },
-  {
    "host": "xbuty.cold.fyi",
    "name": "X But Y",
    "blurb": "What if X, but Y? Creative concept generator.",
@@ -334,9 +283,23 @@
    "added": "2026-10-19"
   },
   {
-   "host": "cold.fyi",
-   "name": "cold.fyi",
-   "blurb": "Every visit leaves a dot.",
+   "host": "stillpoint.thirdpolararch.com",
+   "name": "Stillpoint",
+   "blurb": "Free breathing and calm app.",
+   "group": "tools",
+   "added": "2026-10-19"
+  },
+  {
+   "host": "overhead.cold.fyi",
+   "name": "Overhead",
+   "blurb": "What's in the sky around you, right now.",
+   "group": "tools",
+   "added": "2026-10-19"
+  },
+  {
+   "host": "settime.cold.fyi",
+   "name": "SET TIME",
+   "blurb": "Music industry survival game. Play the artist or the agent, book the gigs, survive the grind.",
    "group": "play",
    "added": "2026-10-19"
   },
@@ -362,9 +325,9 @@
    "added": "2026-10-19"
   },
   {
-   "host": "wrong.thirdpolararch.com",
-   "name": "Officially Wrong",
-   "blurb": "Settle any argument forever.",
+   "host": "zap.cold.fyi",
+   "name": "ZAP",
+   "blurb": "Real-world laser tag.",
    "group": "play",
    "added": "2026-10-19"
   },
@@ -376,9 +339,16 @@
    "added": "2026-10-19"
   },
   {
-   "host": "zap.cold.fyi",
-   "name": "ZAP",
-   "blurb": "Real-world laser tag.",
+   "host": "wrong.thirdpolararch.com",
+   "name": "Officially Wrong",
+   "blurb": "Settle any argument forever.",
+   "group": "play",
+   "added": "2026-10-19"
+  },
+  {
+   "host": "excusenote.thirdpolararch.com",
+   "name": "ExcuseNote",
+   "blurb": "Free excuse note generator.",
    "group": "play",
    "added": "2026-10-19"
   },
@@ -394,6 +364,13 @@
    "name": "SHOT.",
    "blurb": "Every moment, captured.",
    "group": "play",
+   "added": "2026-10-19"
+  },
+  {
+   "host": "cold.fyi",
+   "name": "cold.fyi",
+   "blurb": "Every visit leaves a dot. Home of everything .cold.fyi.",
+   "group": "home",
    "added": "2026-10-19"
   },
   {

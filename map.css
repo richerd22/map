@@ -5,7 +5,7 @@
   --mut: #8c8c94;
   --line: rgba(255,255,255,.09);
   --cold: #9cc4d9;
-  --g0: #9cc4d9; --g1: #c9b8f0; --g2: #f0a8b8; --g3: #b8e0c2; --g4: #f0d79c; --g5: #ffffff;
+  --g0: #9cc4d9; --g1: #c9b8f0; --g2: #f0a8b8; --g3: #b8e0c2; --g4: #f0d79c; --g5: #f0b89c; --g6: #ffffff;
   --mono: "DM Mono", ui-monospace, "SF Mono", Menlo, monospace;
 }
 * { box-sizing: border-box; }
@@ -39,7 +39,7 @@ h1 { font: 300 clamp(28px, 5.4vw, 56px)/1.05 var(--mono); letter-spacing: -.03em
 .dot .core { transition: r .15s ease; }
 .dot:hover .core, .dot:focus .core { r: 6; }
 .dot:hover .halo, .dot:focus .halo { fill: rgba(255,255,255,.06); }
-.g0 { --c: var(--g0); } .g1 { --c: var(--g1); } .g2 { --c: var(--g2); } .g3 { --c: var(--g3); } .g4 { --c: var(--g4); } .g5 { --c: var(--g5); }
+.g0 { --c: var(--g0); } .g1 { --c: var(--g1); } .g2 { --c: var(--g2); } .g3 { --c: var(--g3); } .g4 { --c: var(--g4); } .g5 { --c: var(--g5); } .g6 { --c: var(--g6); }
 .dot .core { fill: var(--c); } .link { stroke: var(--c); }
 
 .readout { position: absolute; left: 14px; bottom: 12px; right: 14px; min-height: 2.8em; font-size: 13px; line-height: 1.45; pointer-events: none; }

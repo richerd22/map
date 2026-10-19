@@ -13,7 +13,7 @@ e = lambda s: html.escape(str(s), quote=True)
 
 W, H = 1000, 640
 # constellation centers, as fractions of the field (one per group, in data order)
-ANCHORS = [(0.22, 0.30), (0.50, 0.20), (0.78, 0.32), (0.27, 0.74), (0.72, 0.74), (0.50, 0.52)]
+ANCHORS = [(0.19, 0.30), (0.50, 0.18), (0.81, 0.24), (0.79, 0.70), (0.21, 0.74), (0.50, 0.80), (0.50, 0.47)]
 
 
 def layout(data):

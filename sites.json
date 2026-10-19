@@ -21,31 +21,10 @@
   "group": "boston"
  },
  {
-  "host": "alarmclub.boston",
-  "url": "https://alarmclub.boston",
-  "name": "Alarm Club",
-  "blurb": "A scavenger hunt across Boston's 1852 fire alarm box network.",
-  "group": "boston"
- },
- {
-  "host": "giftshop.alarmclub.boston",
-  "url": "https://giftshop.alarmclub.boston",
-  "name": "Alarm Club Gift Shop",
-  "blurb": "Postcards and goods from Alarm Club.",
-  "group": "boston"
- },
- {
-  "host": "bricks.cold.fyi",
-  "url": "https://bricks.cold.fyi",
-  "name": "Off the Bricks",
-  "blurb": "Sourced walking hunts through the parts of Boston the red brick line skips.",
-  "group": "boston"
- },
- {
-  "host": "overhead.cold.fyi",
-  "url": "https://overhead.cold.fyi",
-  "name": "Overhead",
-  "blurb": "What's in the sky around you, right now.",
+  "host": "otf.cold.fyi",
+  "url": "https://otf.cold.fyi",
+  "name": "On The Floor Boston",
+  "blurb": "Boston nightlife, so you know where to show up.",
   "group": "boston"
  },
  {
@@ -56,10 +35,24 @@
   "group": "boston"
  },
  {
-  "host": "fourthplace.thirdpolararch.com",
-  "url": "https://fourthplace.thirdpolararch.com",
-  "name": "Fourth Place",
-  "blurb": "Things to do tonight that aren't bars.",
+  "host": "alarmclub.boston",
+  "url": "https://alarmclub.boston",
+  "name": "Alarm Club",
+  "blurb": "A scavenger hunt across Boston's 1852 fire alarm box network.",
+  "group": "boston"
+ },
+ {
+  "host": "giftshop.alarmclub.boston",
+  "url": "https://giftshop.alarmclub.boston",
+  "name": "Alarm Club Gift Shop",
+  "blurb": "Alarm Club postcards.",
+  "group": "boston"
+ },
+ {
+  "host": "bricks.cold.fyi",
+  "url": "https://bricks.cold.fyi",
+  "name": "Off the Bricks",
+  "blurb": "Sourced walking hunts through the parts of Boston the red brick line skips.",
   "group": "boston"
  },
  {
@@ -67,6 +60,13 @@
   "url": "https://post.cold.fyi",
   "name": "Post",
   "blurb": "Mail sent to a box in Boston, cataloged.",
+  "group": "boston"
+ },
+ {
+  "host": "617notary.cold.fyi",
+  "url": "https://617notary.cold.fyi",
+  "name": "Notary.Boston",
+  "blurb": "Mobile notary in Boston, 24/7. Comes to you.",
   "group": "boston"
  },
  {
@@ -109,112 +109,77 @@
   "url": "https://ghostnaps.com",
   "name": "Ghostnaps",
   "blurb": "DJ and producer. Official site.",
-  "group": "night"
+  "group": "ghostnaps"
  },
  {
   "host": "tmwy.ghostnaps.com",
   "url": "https://tmwy.ghostnaps.com",
   "name": "TAKE ME WITH YOU!!",
   "blurb": "A visual album by Ghostnaps.",
-  "group": "night"
+  "group": "ghostnaps"
  },
  {
   "host": "start.ghostnaps.com",
   "url": "https://start.ghostnaps.com",
   "name": "LOST FROM THE START",
   "blurb": "Ghostnaps release page.",
-  "group": "night"
+  "group": "ghostnaps"
  },
  {
   "host": "enuff.ghostnaps.com",
   "url": "https://enuff.ghostnaps.com",
   "name": "CAN'T GET ENUFF",
   "blurb": "Ghostnaps release page.",
-  "group": "night"
+  "group": "ghostnaps"
  },
  {
   "host": "shop.ghostnaps.com",
   "url": "https://shop.ghostnaps.com",
   "name": "Shop Ghostnaps",
   "blurb": "Merch.",
-  "group": "night"
- },
- {
-  "host": "10.cold.fyi",
-  "url": "https://10.cold.fyi",
-  "name": "Weekly Ten",
-  "blurb": "Cover generator for ghostnaps' weekly ten.",
-  "group": "night"
- },
- {
-  "host": "otf.cold.fyi",
-  "url": "https://otf.cold.fyi",
-  "name": "On The Floor Boston",
-  "blurb": "So you know where to show up.",
-  "group": "night"
+  "group": "ghostnaps"
  },
  {
   "host": "darkroom.ad",
   "url": "https://darkroom.ad",
   "name": "DARKROOM",
   "blurb": "Meta ads for music and nightlife.",
-  "group": "night"
+  "group": "shows"
  },
  {
   "host": "school.darkroom.ad",
   "url": "https://school.darkroom.ad",
   "name": "Darkroom Ad School",
   "blurb": "Free Meta ads training for music and nightlife.",
-  "group": "night"
+  "group": "shows"
  },
  {
-  "host": "permit.cold.fyi",
-  "url": "https://permit.cold.fyi",
-  "name": "Bureau of Effects Regulation",
-  "blurb": "Apply for your RMX-1000 Operator's Permit.",
-  "group": "night"
+  "host": "frame.thirdpolararch.com",
+  "url": "https://frame.thirdpolararch.com",
+  "name": "FRAME",
+  "blurb": "Visuals for DJs and venues: clip packs, live visualizers, VJ tools.",
+  "group": "shows"
  },
  {
   "host": "gel.cold.fyi",
   "url": "https://gel.cold.fyi",
   "name": "GEL",
   "blurb": "Lighting gel color theory: what to mix when.",
-  "group": "night"
- },
- {
-  "host": "frame.thirdpolararch.com",
-  "url": "https://frame.thirdpolararch.com",
-  "name": "FRAME",
-  "blurb": "Look as good as you sound.",
-  "group": "night"
- },
- {
-  "host": "passlab.thirdpolararch.com",
-  "url": "https://passlab.thirdpolararch.com",
-  "name": "PassLab",
-  "blurb": "Your tickets. Your fields.",
-  "group": "night"
+  "group": "shows"
  },
  {
   "host": "copro.cold.fyi",
   "url": "https://copro.cold.fyi",
   "name": "Co-Pro Calculator",
   "blurb": "Co-promotion deal calculator.",
-  "group": "night"
+  "group": "shows"
  },
  {
-  "host": "settime.cold.fyi",
-  "url": "https://settime.cold.fyi",
-  "name": "SET TIME",
-  "blurb": "Music industry survival game. A browser tamagotchi.",
-  "group": "night"
- },
- {
-  "host": "setlist.thirdpolararch.com",
-  "url": "https://setlist.thirdpolararch.com",
-  "name": "SETLIST",
-  "blurb": "The DJ career simulator.",
-  "group": "night"
+  "host": "permit.cold.fyi",
+  "url": "https://permit.cold.fyi",
+  "name": "Bureau of Effects Regulation",
+  "blurb": "Apply for your RMX-1000 Operator's Permit.",
+  "group": "shows"
  },
  {
   "host": "qr.thirdpolararch.com",
@@ -224,38 +189,10 @@
   "group": "tools"
  },
  {
-  "host": "collect.thirdpolararch.com",
-  "url": "https://collect.thirdpolararch.com",
-  "name": "Collect",
-  "blurb": "Lead capture forms that send data straight to Google Sheets.",
-  "group": "tools"
- },
- {
-  "host": "checklistvault.thirdpolararch.com",
-  "url": "https://checklistvault.thirdpolararch.com",
-  "name": "ChecklistVault",
-  "blurb": "1,400+ free checklists for business and life.",
-  "group": "tools"
- },
- {
-  "host": "mktg.thirdpolararch.com",
-  "url": "https://mktg.thirdpolararch.com",
-  "name": "SIMPLEMKTGTLBX",
-  "blurb": "150+ free marketing, design and developer tools.",
-  "group": "tools"
- },
- {
-  "host": "ooo.thirdpolararch.com",
-  "url": "https://ooo.thirdpolararch.com",
-  "name": "OOO Generator",
-  "blurb": "Out of office messages, written for you.",
-  "group": "tools"
- },
- {
-  "host": "excusenote.thirdpolararch.com",
-  "url": "https://excusenote.thirdpolararch.com",
-  "name": "ExcuseNote",
-  "blurb": "Free excuse note generator.",
+  "host": "recopro.thirdpolararch.com",
+  "url": "https://recopro.thirdpolararch.com",
+  "name": "ResizeConvertPRO",
+  "blurb": "Resize and convert files.",
   "group": "tools"
  },
  {
@@ -266,10 +203,31 @@
   "group": "tools"
  },
  {
-  "host": "recopro.online",
-  "url": "https://recopro.online",
-  "name": "ResizeConvertPRO",
-  "blurb": "Resize and convert files.",
+  "host": "collect.thirdpolararch.com",
+  "url": "https://collect.thirdpolararch.com",
+  "name": "Collect",
+  "blurb": "Simple lead capture forms.",
+  "group": "tools"
+ },
+ {
+  "host": "ooo.thirdpolararch.com",
+  "url": "https://ooo.thirdpolararch.com",
+  "name": "OOO Generator",
+  "blurb": "Out of office messages, written for you.",
+  "group": "tools"
+ },
+ {
+  "host": "mktg.thirdpolararch.com",
+  "url": "https://mktg.thirdpolararch.com",
+  "name": "SIMPLEMKTGTLBX",
+  "blurb": "150+ free marketing, design and developer tools.",
+  "group": "tools"
+ },
+ {
+  "host": "checklistvault.thirdpolararch.com",
+  "url": "https://checklistvault.thirdpolararch.com",
+  "name": "ChecklistVault",
+  "blurb": "1,400+ free checklists for business and life.",
   "group": "tools"
  },
  {
@@ -280,20 +238,6 @@
   "group": "tools"
  },
  {
-  "host": "stillpoint.thirdpolararch.com",
-  "url": "https://stillpoint.thirdpolararch.com",
-  "name": "Stillpoint",
-  "blurb": "Free breathing and calm app.",
-  "group": "tools"
- },
- {
-  "host": "loosedates.cold.fyi",
-  "url": "https://loosedates.cold.fyi",
-  "name": "loosedates",
-  "blurb": "Flexible-date flight deal terminal.",
-  "group": "tools"
- },
- {
   "host": "xbuty.cold.fyi",
   "url": "https://xbuty.cold.fyi",
   "name": "X But Y",
@@ -301,10 +245,24 @@
   "group": "tools"
  },
  {
-  "host": "cold.fyi",
-  "url": "https://cold.fyi",
-  "name": "cold.fyi",
-  "blurb": "Every visit leaves a dot.",
+  "host": "stillpoint.thirdpolararch.com",
+  "url": "https://stillpoint.thirdpolararch.com",
+  "name": "Stillpoint",
+  "blurb": "Free breathing and calm app.",
+  "group": "tools"
+ },
+ {
+  "host": "overhead.cold.fyi",
+  "url": "https://overhead.cold.fyi",
+  "name": "Overhead",
+  "blurb": "What's in the sky around you, right now.",
+  "group": "tools"
+ },
+ {
+  "host": "settime.cold.fyi",
+  "url": "https://settime.cold.fyi",
+  "name": "SET TIME",
+  "blurb": "Music industry survival game. Play the artist or the agent, book the gigs, survive the grind.",
   "group": "play"
  },
  {
@@ -329,10 +287,10 @@
   "group": "play"
  },
  {
-  "host": "wrong.thirdpolararch.com",
-  "url": "https://wrong.thirdpolararch.com",
-  "name": "Officially Wrong",
-  "blurb": "Settle any argument forever.",
+  "host": "zap.cold.fyi",
+  "url": "https://zap.cold.fyi",
+  "name": "ZAP",
+  "blurb": "Real-world laser tag.",
   "group": "play"
  },
  {
@@ -343,10 +301,17 @@
   "group": "play"
  },
  {
-  "host": "zap.cold.fyi",
-  "url": "https://zap.cold.fyi",
-  "name": "ZAP",
-  "blurb": "Real-world laser tag.",
+  "host": "wrong.thirdpolararch.com",
+  "url": "https://wrong.thirdpolararch.com",
+  "name": "Officially Wrong",
+  "blurb": "Settle any argument forever.",
+  "group": "play"
+ },
+ {
+  "host": "excusenote.thirdpolararch.com",
+  "url": "https://excusenote.thirdpolararch.com",
+  "name": "ExcuseNote",
+  "blurb": "Free excuse note generator.",
   "group": "play"
  },
  {
@@ -362,6 +327,13 @@
   "name": "SHOT.",
   "blurb": "Every moment, captured.",
   "group": "play"
+ },
+ {
+  "host": "cold.fyi",
+  "url": "https://cold.fyi",
+  "name": "cold.fyi",
+  "blurb": "Every visit leaves a dot. Home of everything .cold.fyi.",
+  "group": "home"
  },
  {
   "host": "thirdpolararch.com",
