@@ -336,6 +336,13 @@
   "group": "play"
  },
  {
+  "host": "im.cold.fyi",
+  "url": "https://im.cold.fyi",
+  "name": "im.cold.fyi",
+  "blurb": "I'm cold, fyi.",
+  "group": "play"
+ },
+ {
   "host": "shot.thirdpolararch.com",
   "url": "https://shot.thirdpolararch.com",
   "name": "SHOT.",

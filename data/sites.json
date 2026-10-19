@@ -374,6 +374,13 @@
    "added": "2026-10-19"
   },
   {
+   "host": "im.cold.fyi",
+   "name": "im.cold.fyi",
+   "blurb": "I'm cold, fyi.",
+   "group": "play",
+   "added": "2026-10-19"
+  },
+  {
    "host": "shot.thirdpolararch.com",
    "name": "SHOT.",
    "blurb": "Every moment, captured.",
