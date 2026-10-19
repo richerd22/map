@@ -1,0 +1,428 @@
+{
+ "groups": [
+  {
+   "id": "boston",
+   "name": "Boston, live",
+   "note": "Tools and feeds about the city, running all day."
+  },
+  {
+   "id": "deep",
+   "name": "Deep dives",
+   "note": "Long, sourced explainers on how things actually work."
+  },
+  {
+   "id": "night",
+   "name": "Music and nightlife",
+   "note": "Ghostnaps, On The Floor, Darkroom, and tools for people who work shows."
+  },
+  {
+   "id": "tools",
+   "name": "Free tools",
+   "note": "Small utilities. No accounts, no signup."
+  },
+  {
+   "id": "play",
+   "name": "Games and toys",
+   "note": "Things to poke at for a minute or an hour."
+  },
+  {
+   "id": "home",
+   "name": "Home base",
+   "note": "Who makes all this."
+  }
+ ],
+ "sites": [
+  {
+   "host": "common.cold.fyi",
+   "name": "Boston Common LIVE",
+   "blurb": "24/7 skyline cam over Boston Common.",
+   "group": "boston",
+   "added": "2026-10-19"
+  },
+  {
+   "host": "mbta.cold.fyi",
+   "name": "CHARLIE",
+   "blurb": "Live MBTA tracker, down to the individual car.",
+   "group": "boston",
+   "added": "2026-10-19"
+  },
+  {
+   "host": "dockwatch.cold.fyi",
+   "name": "Dockwatch",
+   "blurb": "Bluebikes dock tracker: what's nearby and what's empty.",
+   "group": "boston",
+   "added": "2026-10-19"
+  },
+  {
+   "host": "alarmclub.boston",
+   "name": "Alarm Club",
+   "blurb": "A scavenger hunt across Boston's 1852 fire alarm box network.",
+   "group": "boston",
+   "added": "2026-10-19"
+  },
+  {
+   "host": "giftshop.alarmclub.boston",
+   "name": "Alarm Club Gift Shop",
+   "blurb": "Postcards and goods from Alarm Club.",
+   "group": "boston",
+   "added": "2026-10-19"
+  },
+  {
+   "host": "bricks.cold.fyi",
+   "name": "Off the Bricks",
+   "blurb": "Sourced walking hunts through the parts of Boston the red brick line skips.",
+   "group": "boston",
+   "added": "2026-10-19"
+  },
+  {
+   "host": "overhead.cold.fyi",
+   "name": "Overhead",
+   "blurb": "What's in the sky around you, right now.",
+   "group": "boston",
+   "added": "2026-10-19"
+  },
+  {
+   "host": "bos.cold.fyi",
+   "name": "bostondo",
+   "blurb": "Spin a random Boston neighborhood and go.",
+   "group": "boston",
+   "added": "2026-10-19"
+  },
+  {
+   "host": "fourthplace.thirdpolararch.com",
+   "name": "Fourth Place",
+   "blurb": "Things to do tonight that aren't bars.",
+   "group": "boston",
+   "added": "2026-10-19"
+  },
+  {
+   "host": "post.cold.fyi",
+   "name": "Post",
+   "blurb": "Mail sent to a box in Boston, cataloged.",
+   "group": "boston",
+   "added": "2026-10-19"
+  },
+  {
+   "host": "works.cold.fyi",
+   "name": "How a City Works",
+   "blurb": "Water, power, traffic lights, subways, trash and 911.",
+   "group": "deep",
+   "added": "2026-10-19"
+  },
+  {
+   "host": "streetcode.cold.fyi",
+   "name": "Street Code",
+   "blurb": "What every mark, box, cap and sign on the street means.",
+   "group": "deep",
+   "added": "2026-10-19"
+  },
+  {
+   "host": "airwaves.cold.fyi",
+   "name": "The Airwaves",
+   "blurb": "Every radio signal over a city, from FM and 5G to flight trackers.",
+   "group": "deep",
+   "added": "2026-10-19"
+  },
+  {
+   "host": "showfile.cold.fyi",
+   "name": "The Show File",
+   "blurb": "How an electronic dance music show gets made.",
+   "group": "deep",
+   "added": "2026-10-19"
+  },
+  {
+   "host": "penamnesty.cold.fyi",
+   "name": "Office of Pen Amnesty",
+   "blurb": "Pharma swag: drug rep pens, mugs and why they vanished.",
+   "group": "deep",
+   "added": "2026-10-19"
+  },
+  {
+   "host": "ghostnaps.com",
+   "name": "Ghostnaps",
+   "blurb": "DJ and producer. Official site.",
+   "group": "night",
+   "added": "2026-10-19"
+  },
+  {
+   "host": "tmwy.ghostnaps.com",
+   "name": "TAKE ME WITH YOU!!",
+   "blurb": "A visual album by Ghostnaps.",
+   "group": "night",
+   "added": "2026-10-19"
+  },
+  {
+   "host": "start.ghostnaps.com",
+   "name": "LOST FROM THE START",
+   "blurb": "Ghostnaps release page.",
+   "group": "night",
+   "added": "2026-10-19"
+  },
+  {
+   "host": "enuff.ghostnaps.com",
+   "name": "CAN'T GET ENUFF",
+   "blurb": "Ghostnaps release page.",
+   "group": "night",
+   "added": "2026-10-19"
+  },
+  {
+   "host": "shop.ghostnaps.com",
+   "name": "Shop Ghostnaps",
+   "blurb": "Merch.",
+   "group": "night",
+   "added": "2026-10-19"
+  },
+  {
+   "host": "10.cold.fyi",
+   "name": "Weekly Ten",
+   "blurb": "Cover generator for ghostnaps' weekly ten.",
+   "group": "night",
+   "added": "2026-10-19"
+  },
+  {
+   "host": "otf.cold.fyi",
+   "name": "On The Floor Boston",
+   "blurb": "So you know where to show up.",
+   "group": "night",
+   "added": "2026-10-19"
+  },
+  {
+   "host": "darkroom.ad",
+   "name": "DARKROOM",
+   "blurb": "Meta ads for music and nightlife.",
+   "group": "night",
+   "added": "2026-10-19"
+  },
+  {
+   "host": "school.darkroom.ad",
+   "name": "Darkroom Ad School",
+   "blurb": "Free Meta ads training for music and nightlife.",
+   "group": "night",
+   "added": "2026-10-19"
+  },
+  {
+   "host": "permit.cold.fyi",
+   "name": "Bureau of Effects Regulation",
+   "blurb": "Apply for your RMX-1000 Operator's Permit.",
+   "group": "night",
+   "added": "2026-10-19"
+  },
+  {
+   "host": "gel.cold.fyi",
+   "name": "GEL",
+   "blurb": "Lighting gel color theory: what to mix when.",
+   "group": "night",
+   "added": "2026-10-19"
+  },
+  {
+   "host": "frame.thirdpolararch.com",
+   "name": "FRAME",
+   "blurb": "Look as good as you sound.",
+   "group": "night",
+   "added": "2026-10-19"
+  },
+  {
+   "host": "passlab.thirdpolararch.com",
+   "name": "PassLab",
+   "blurb": "Your tickets. Your fields.",
+   "group": "night",
+   "added": "2026-10-19"
+  },
+  {
+   "host": "copro.cold.fyi",
+   "name": "Co-Pro Calculator",
+   "blurb": "Co-promotion deal calculator.",
+   "group": "night",
+   "added": "2026-10-19"
+  },
+  {
+   "host": "settime.cold.fyi",
+   "name": "SET TIME",
+   "blurb": "Music industry survival game. A browser tamagotchi.",
+   "group": "night",
+   "added": "2026-10-19"
+  },
+  {
+   "host": "setlist.thirdpolararch.com",
+   "name": "SETLIST",
+   "blurb": "The DJ career simulator.",
+   "group": "night",
+   "added": "2026-10-19"
+  },
+  {
+   "host": "qr.thirdpolararch.com",
+   "name": "QR Code Generator",
+   "blurb": "Free, no signup.",
+   "group": "tools",
+   "added": "2026-10-19"
+  },
+  {
+   "host": "collect.thirdpolararch.com",
+   "name": "Collect",
+   "blurb": "Lead capture forms that send data straight to Google Sheets.",
+   "group": "tools",
+   "added": "2026-10-19"
+  },
+  {
+   "host": "checklistvault.thirdpolararch.com",
+   "name": "ChecklistVault",
+   "blurb": "1,400+ free checklists for business and life.",
+   "group": "tools",
+   "added": "2026-10-19"
+  },
+  {
+   "host": "mktg.thirdpolararch.com",
+   "name": "SIMPLEMKTGTLBX",
+   "blurb": "150+ free marketing, design and developer tools.",
+   "group": "tools",
+   "added": "2026-10-19"
+  },
+  {
+   "host": "ooo.thirdpolararch.com",
+   "name": "OOO Generator",
+   "blurb": "Out of office messages, written for you.",
+   "group": "tools",
+   "added": "2026-10-19"
+  },
+  {
+   "host": "excusenote.thirdpolararch.com",
+   "name": "ExcuseNote",
+   "blurb": "Free excuse note generator.",
+   "group": "tools",
+   "added": "2026-10-19"
+  },
+  {
+   "host": "airdrop.thirdpolararch.com",
+   "name": "CantAirdropIt",
+   "blurb": "Instant local file optimizer.",
+   "group": "tools",
+   "added": "2026-10-19"
+  },
+  {
+   "host": "recopro.online",
+   "name": "ResizeConvertPRO",
+   "blurb": "Resize and convert files.",
+   "group": "tools",
+   "added": "2026-10-19"
+  },
+  {
+   "host": "eyeline.cold.fyi",
+   "name": "EyeLine",
+   "blurb": "A teleprompter that keeps your eyes on the lens.",
+   "group": "tools",
+   "added": "2026-10-19"
+  },
+  {
+   "host": "stillpoint.thirdpolararch.com",
+   "name": "Stillpoint",
+   "blurb": "Free breathing and calm app.",
+   "group": "tools",
+   "added": "2026-10-19"
+  },
+  {
+   "host": "loosedates.cold.fyi",
+   "name": "loosedates",
+   "blurb": "Flexible-date flight deal terminal.",
+   "group": "tools",
+   "added": "2026-10-19"
+  },
+  {
+   "host": "xbuty.cold.fyi",
+   "name": "X But Y",
+   "blurb": "What if X, but Y? Creative concept generator.",
+   "group": "tools",
+   "added": "2026-10-19"
+  },
+  {
+   "host": "cold.fyi",
+   "name": "cold.fyi",
+   "blurb": "Every visit leaves a dot.",
+   "group": "play",
+   "added": "2026-10-19"
+  },
+  {
+   "host": "games.cold.fyi",
+   "name": "Pocket Graveyard",
+   "blurb": "Classic mobile games, all in one place.",
+   "group": "play",
+   "added": "2026-10-19"
+  },
+  {
+   "host": "vault.thirdpolararch.com",
+   "name": "THE VAULT",
+   "blurb": "Can you crack the gatekeeper?",
+   "group": "play",
+   "added": "2026-10-19"
+  },
+  {
+   "host": "pricemaster.thirdpolararch.com",
+   "name": "PriceMaster",
+   "blurb": "Negotiation, captive market capitalism.",
+   "group": "play",
+   "added": "2026-10-19"
+  },
+  {
+   "host": "wrong.thirdpolararch.com",
+   "name": "Officially Wrong",
+   "blurb": "Settle any argument forever.",
+   "group": "play",
+   "added": "2026-10-19"
+  },
+  {
+   "host": "beef.cold.fyi",
+   "name": "BEEF",
+   "blurb": "Settle it.",
+   "group": "play",
+   "added": "2026-10-19"
+  },
+  {
+   "host": "zap.cold.fyi",
+   "name": "ZAP",
+   "blurb": "Real-world laser tag.",
+   "group": "play",
+   "added": "2026-10-19"
+  },
+  {
+   "host": "smokebreak.cold.fyi",
+   "name": "smokebreak",
+   "blurb": "Step outside, for five.",
+   "group": "play",
+   "added": "2026-10-19"
+  },
+  {
+   "host": "shot.thirdpolararch.com",
+   "name": "SHOT.",
+   "blurb": "Every moment, captured.",
+   "group": "play",
+   "added": "2026-10-19"
+  },
+  {
+   "host": "thirdpolararch.com",
+   "name": "Third Polar Arch",
+   "blurb": "Music and arts collective, Boston. Makes all of this.",
+   "group": "home",
+   "added": "2026-10-19"
+  },
+  {
+   "host": "richard.fun",
+   "name": "richard.fun",
+   "blurb": "Richard Lathrop. DJ, producer, marketer.",
+   "group": "home",
+   "added": "2026-10-19"
+  },
+  {
+   "host": "index.richard.fun",
+   "name": "Index of Works",
+   "blurb": "Richard Lathrop's index of works.",
+   "group": "home",
+   "added": "2026-10-19"
+  },
+  {
+   "host": "map.cold.fyi",
+   "name": "map.cold.fyi",
+   "blurb": "This page.",
+   "group": "home",
+   "added": "2026-10-19"
+  }
+ ]
+}

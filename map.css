@@ -1,0 +1,78 @@
+/* map.cold.fyi - cold.fyi palette: near-black, white, one cold blue */
+:root {
+  --bg: #0a0a10;
+  --fg: #ffffff;
+  --mut: #8c8c94;
+  --line: rgba(255,255,255,.09);
+  --cold: #9cc4d9;
+  --g0: #9cc4d9; --g1: #c9b8f0; --g2: #f0a8b8; --g3: #b8e0c2; --g4: #f0d79c; --g5: #ffffff;
+  --mono: "DM Mono", ui-monospace, "SF Mono", Menlo, monospace;
+}
+* { box-sizing: border-box; }
+html { background: var(--bg); }
+body { margin: 0; background: var(--bg); color: var(--fg); font: 400 14px/1.6 var(--mono); -webkit-font-smoothing: antialiased; overflow-x: hidden; }
+a { color: inherit; text-decoration: none; }
+:focus-visible { outline: 1px solid var(--cold); outline-offset: 3px; }
+.mut { color: var(--mut); }
+
+.grain::after { content: ""; position: fixed; inset: 0; z-index: 50; pointer-events: none; opacity: .035;
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+  background-size: 128px 128px; }
+
+.top, main, .foot { width: min(1080px, 100% - 32px); margin-inline: auto; }
+.top { padding: 22px 0 0; font-size: 13px; letter-spacing: .02em; }
+.mark:hover { color: var(--cold); }
+.slash { color: var(--mut); margin: 0 6px; }
+.here { color: var(--cold); }
+
+.hero { padding: 48px 0 24px; }
+h1 { font: 300 clamp(28px, 5.4vw, 56px)/1.05 var(--mono); letter-spacing: -.03em; margin: 0 0 14px; }
+.count { margin: 0 0 22px; color: var(--fg); }
+.count .mut { margin-left: 8px; }
+
+.fieldwrap { position: relative; border: 1px solid var(--line); }
+.field { display: block; width: 100%; height: auto; }
+.star { fill: #fff; opacity: .16; }
+.link { stroke-width: .8; opacity: .28; }
+.glabel { fill: var(--mut); font: 400 11px var(--mono); letter-spacing: .04em; }
+.dot .halo { fill: transparent; }
+.dot .core { transition: r .15s ease; }
+.dot:hover .core, .dot:focus .core { r: 6; }
+.dot:hover .halo, .dot:focus .halo { fill: rgba(255,255,255,.06); }
+.g0 { --c: var(--g0); } .g1 { --c: var(--g1); } .g2 { --c: var(--g2); } .g3 { --c: var(--g3); } .g4 { --c: var(--g4); } .g5 { --c: var(--g5); }
+.dot .core { fill: var(--c); } .link { stroke: var(--c); }
+
+.readout { position: absolute; left: 14px; bottom: 12px; right: 14px; min-height: 2.8em; font-size: 13px; line-height: 1.45; pointer-events: none; }
+.readout b { font-weight: 500; }
+.readout .h, .site .h { color: var(--cold); }
+
+.list { padding: 30px 0 60px; }
+.find { display: flex; align-items: center; gap: 12px; border-bottom: 1px solid var(--line); padding: 0 0 10px; margin-bottom: 32px; }
+.find span { color: var(--mut); }
+.find input { flex: 1; background: transparent; border: 0; color: var(--fg); font: inherit; padding: 6px 0; outline: none; }
+.find input::placeholder { color: #55555c; }
+
+.grp { margin-bottom: 40px; }
+.grp h2 { font: 500 13px var(--mono); letter-spacing: .02em; margin: 0 0 4px; display: flex; align-items: center; gap: 10px; }
+.sw { width: 8px; height: 8px; border-radius: 50%; background: var(--c); display: inline-block; }
+.gnote { color: var(--mut); margin: 0 0 12px; font-size: 13px; }
+.grp ul { list-style: none; margin: 0; padding: 0; border-top: 1px solid var(--line); }
+.site { display: grid; grid-template-columns: minmax(0, 1.1fr) minmax(0, 1.4fr); gap: 4px 24px; padding: 11px 0; border-bottom: 1px solid var(--line); }
+.site a { display: flex; flex-direction: column; }
+.site a:hover .n { color: var(--cold); }
+.site .n { font-weight: 500; }
+.site .h { font-size: 12px; }
+.site .b { color: var(--mut); align-self: center; }
+.none { color: var(--mut); }
+
+.foot { border-top: 1px solid var(--line); padding: 20px 0 40px; color: var(--mut); font-size: 12px; }
+.foot p { margin: 0 0 4px; }
+.foot a { margin-right: 12px; } .foot p:first-child a { margin: 0; }
+.foot a:hover { color: var(--fg); }
+
+@media (max-width: 680px) {
+  .site { grid-template-columns: 1fr; }
+  .readout { position: static; padding: 10px 12px; border-top: 1px solid var(--line); }
+  .glabel { font-size: 15px; }
+}
+@media (prefers-reduced-motion: reduce) { .dot .core { transition: none; } }
