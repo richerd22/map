@@ -182,6 +182,13 @@
   "group": "shows"
  },
  {
+  "host": "hardstop.cold.fyi",
+  "url": "https://hardstop.cold.fyi",
+  "name": "HARD STOP",
+  "blurb": "Countdown and comms panel for the DJ booth, plus the app that runs the night.",
+  "group": "shows"
+ },
+ {
   "host": "qr.thirdpolararch.com",
   "url": "https://qr.thirdpolararch.com",
   "name": "QR Code Generator",
@@ -305,6 +312,13 @@
   "url": "https://wrong.thirdpolararch.com",
   "name": "Officially Wrong",
   "blurb": "Settle any argument forever.",
+  "group": "play"
+ },
+ {
+  "host": "courtesy.cold.fyi",
+  "url": "https://courtesy.cold.fyi",
+  "name": "Department of Public Courtesy",
+  "blurb": "Citations for bad public manners. No fine. No court. Only the record.",
   "group": "play"
  },
  {
