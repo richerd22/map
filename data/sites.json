@@ -150,6 +150,13 @@
    "added": "2026-10-19"
   },
   {
+   "host": "noise.cold.fyi",
+   "url": "https://noise.cold.fyi",
+   "name": "The Noise",
+   "blurb": "Every sound in a city, from sirens and traffic to the hum at 2am.",
+   "group": "deep"
+  },
+  {
    "host": "ghostnaps.com",
    "name": "Ghostnaps",
    "blurb": "DJ and producer. Official site.",
