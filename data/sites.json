@@ -151,10 +151,10 @@
   },
   {
    "host": "noise.cold.fyi",
-   "url": "https://noise.cold.fyi",
    "name": "The Noise",
    "blurb": "Every sound in a city, from sirens and traffic to the hum at 2am.",
-   "group": "deep"
+   "group": "deep",
+   "added": "2026-10-22"
   },
   {
    "host": "ghostnaps.com",
