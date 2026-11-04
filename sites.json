@@ -119,6 +119,13 @@
   "group": "deep"
  },
  {
+  "host": "polo.cold.fyi",
+  "url": "https://polo.cold.fyi",
+  "name": "Polo",
+  "blurb": "How Coachella actually works.",
+  "group": "deep"
+ },
+ {
   "host": "ghostnaps.com",
   "url": "https://ghostnaps.com",
   "name": "Ghostnaps",
@@ -200,6 +207,13 @@
   "url": "https://hardstop.cold.fyi",
   "name": "HARD STOP",
   "blurb": "Countdown and comms panel for the DJ booth, plus the app that runs the night.",
+  "group": "shows"
+ },
+ {
+  "host": "ghostlink.cold.fyi",
+  "url": "https://ghostlink.cold.fyi",
+  "name": "GHOST LINK",
+  "blurb": "A small box for the DJ booth: every deck live on any phone browser. It only listens.",
   "group": "shows"
  },
  {
