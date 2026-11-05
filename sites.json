@@ -378,6 +378,13 @@
   "group": "play"
  },
  {
+  "host": "whiteout.cold.fyi",
+  "url": "https://whiteout.cold.fyi",
+  "name": "WHITEOUT",
+  "blurb": "A cold little town at the edge of the ice. Free open-world browser game, solo or with friends.",
+  "group": "play"
+ },
+ {
   "host": "cold.fyi",
   "url": "https://cold.fyi",
   "name": "cold.fyi",
