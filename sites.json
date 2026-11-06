@@ -126,6 +126,20 @@
   "group": "deep"
  },
  {
+  "host": "wristband.cold.fyi",
+  "url": "https://wristband.cold.fyi",
+  "name": "The Wristband",
+  "blurb": "How music festivals work, from Newport to Tomorrowland.",
+  "group": "deep"
+ },
+ {
+  "host": "lastcall.cold.fyi",
+  "url": "https://lastcall.cold.fyi",
+  "name": "Last Call",
+  "blurb": "How nightlife works, from closing-time laws to getting home.",
+  "group": "deep"
+ },
+ {
   "host": "ghostnaps.com",
   "url": "https://ghostnaps.com",
   "name": "Ghostnaps",
@@ -382,6 +396,13 @@
   "url": "https://whiteout.cold.fyi",
   "name": "WHITEOUT",
   "blurb": "A cold little town at the edge of the ice. Free open-world browser game, solo or with friends.",
+  "group": "play"
+ },
+ {
+  "host": "fishtank.cold.fyi",
+  "url": "https://fishtank.cold.fyi",
+  "name": "fishtank",
+  "blurb": "An endless aquarium you can leave on. Looping 4K tanks filmed in Boston.",
   "group": "play"
  },
  {

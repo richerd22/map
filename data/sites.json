@@ -164,6 +164,20 @@
    "added": "2026-11-04"
   },
   {
+   "host": "wristband.cold.fyi",
+   "name": "The Wristband",
+   "blurb": "How music festivals work, from Newport to Tomorrowland.",
+   "group": "deep",
+   "added": "2026-11-06"
+  },
+  {
+   "host": "lastcall.cold.fyi",
+   "name": "Last Call",
+   "blurb": "How nightlife works, from closing-time laws to getting home.",
+   "group": "deep",
+   "added": "2026-11-06"
+  },
+  {
    "host": "ghostnaps.com",
    "name": "Ghostnaps",
    "blurb": "DJ and producer. Official site.",
@@ -421,6 +435,13 @@
    "blurb": "A cold little town at the edge of the ice. Free open-world browser game, solo or with friends.",
    "group": "play",
    "added": "2026-11-05"
+  },
+  {
+   "host": "fishtank.cold.fyi",
+   "name": "fishtank",
+   "blurb": "An endless aquarium you can leave on. Looping 4K tanks filmed in Boston.",
+   "group": "play",
+   "added": "2026-11-06"
   },
   {
    "host": "cold.fyi",
