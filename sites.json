@@ -147,6 +147,13 @@
   "group": "deep"
  },
  {
+  "host": "radiowheel.cold.fyi",
+  "url": "https://radiowheel.cold.fyi",
+  "name": "The Radio Wheel",
+  "blurb": "Every GTA radio station, song, host and talk show, and how Rockstar does music.",
+  "group": "deep"
+ },
+ {
   "host": "ghostnaps.com",
   "url": "https://ghostnaps.com",
   "name": "Ghostnaps",
