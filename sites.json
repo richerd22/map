@@ -140,6 +140,13 @@
   "group": "deep"
  },
  {
+  "host": "groove.cold.fyi",
+  "url": "https://groove.cold.fyi",
+  "name": "The Groove",
+  "blurb": "How a vinyl record is made, pressed, played and collected.",
+  "group": "deep"
+ },
+ {
   "host": "ghostnaps.com",
   "url": "https://ghostnaps.com",
   "name": "Ghostnaps",
