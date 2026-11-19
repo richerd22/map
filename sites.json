@@ -154,6 +154,13 @@
   "group": "deep"
  },
  {
+  "host": "flip.cold.fyi",
+  "url": "https://flip.cold.fyi",
+  "name": "The Flip",
+  "blurb": "How sampling works: the breaks, the machines, the law and the money.",
+  "group": "deep"
+ },
+ {
   "host": "ghostnaps.com",
   "url": "https://ghostnaps.com",
   "name": "Ghostnaps",
