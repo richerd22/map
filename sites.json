@@ -161,6 +161,13 @@
   "group": "deep"
  },
  {
+  "host": "beam.cold.fyi",
+  "url": "https://beam.cold.fyi",
+  "name": "The Beam",
+  "blurb": "How laser shows work: the planetarium years, the machines and the rules.",
+  "group": "deep"
+ },
+ {
   "host": "ghostnaps.com",
   "url": "https://ghostnaps.com",
   "name": "Ghostnaps",
