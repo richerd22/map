@@ -168,6 +168,13 @@
   "group": "deep"
  },
  {
+  "host": "finale.cold.fyi",
+  "url": "https://finale.cold.fyi",
+  "name": "The Finale",
+  "blurb": "How fireworks and pyro work: color chemistry, the shows, stage pyro, the law and the disasters.",
+  "group": "deep"
+ },
+ {
   "host": "ghostnaps.com",
   "url": "https://ghostnaps.com",
   "name": "Ghostnaps",
