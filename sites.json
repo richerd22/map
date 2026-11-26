@@ -259,6 +259,13 @@
   "group": "shows"
  },
  {
+  "host": "club.cold.fyi",
+  "url": "https://club.cold.fyi",
+  "name": "Club",
+  "blurb": "Tools for people who work shows: the booth, the lights, the promo and the deal.",
+  "group": "shows"
+ },
+ {
   "host": "qr.thirdpolararch.com",
   "url": "https://qr.thirdpolararch.com",
   "name": "QR Code Generator",

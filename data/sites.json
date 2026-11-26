@@ -297,6 +297,13 @@
    "added": "2026-11-04"
   },
   {
+   "host": "club.cold.fyi",
+   "name": "Club",
+   "blurb": "Tools for people who work shows: the booth, the lights, the promo and the deal.",
+   "group": "shows",
+   "added": "2026-11-26"
+  },
+  {
    "host": "qr.thirdpolararch.com",
    "name": "QR Code Generator",
    "blurb": "Free, no signup.",
