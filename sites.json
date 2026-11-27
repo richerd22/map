@@ -448,6 +448,27 @@
   "group": "play"
  },
  {
+  "host": "2am.cold.fyi",
+  "url": "https://2am.cold.fyi",
+  "name": "2AM",
+  "blurb": "A two-player card game about the night: 62 cards, play the bot or a friend.",
+  "group": "play"
+ },
+ {
+  "host": "scurry.cold.fyi",
+  "url": "https://scurry.cold.fyi",
+  "name": "SCURRY",
+  "blurb": "A Boston Common squirrel game.",
+  "group": "play"
+ },
+ {
+  "host": "somelimits.cold.fyi",
+  "url": "https://somelimits.cold.fyi",
+  "name": "SomeLimits",
+  "blurb": "A coaster sim with some limits: place points, drag things, ride it.",
+  "group": "play"
+ },
+ {
   "host": "cold.fyi",
   "url": "https://cold.fyi",
   "name": "cold.fyi",
